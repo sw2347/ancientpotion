@@ -26,3 +26,11 @@ After setting the permissions, you can run the `setup-linux.sh` file to install 
 ```console
 user@linux:/Eldritch$ ./setup-linux.sh
 ```
+
+### Running Game
+Once all these installation processes are complete, to run Eldritch:
+
+- On Windows machines, run `eldritch.bat`,
+- On Linux machines, run `eldritch.sh`.
+
+You can step into the adventurous MMO world of Eldritch by executing these files.
