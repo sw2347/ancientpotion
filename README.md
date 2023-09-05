@@ -34,3 +34,14 @@ Once all these installation processes are complete, to run Eldritch:
 - On Linux machines, run `eldritch.sh`.
 
 You can step into the adventurous MMO world of Eldritch by executing these files.
+
+## Contributing
+Please read through our contribution guidelines before starting a pull request. We welcome contributions of all kinds, not just code! If you're stuck for ideas, look for the good first issue label on issues in the repository. If you have any questions about the project, feel free to ask them on Discord. Before creating your own issue or pull request, always check to see if one already exists! Don't rush contributions, take your time and ensure you're doing it correctly.
+
+## The Power Come From Open Source
+You can explore open-source projects that empower Eldritch:
+
+- DiscordJS
+- TypeORM
+- pg
+- chalk
