@@ -3,19 +3,13 @@
 	<p>
 		<a href="https://discord.js.org"><img src="https://gcdnb.pbrd.co/images/fbGWaLAN3VTe.png?o=1" width="546" alt="discord.js" /></a>
 	</p>
-	<br />
-	<p>
-		<a href="https://discord.gg/djs"><img src="https://img.shields.io/discord/222078108977594368?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
-		<a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/v/discord.js.svg?maxAge=3600" alt="npm version" /></a>
-		<a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/dt/discord.js.svg?maxAge=3600" alt="npm downloads" /></a>
-		<a href="https://github.com/discordjs/discord.js/actions"><img src="https://github.com/discordjs/discord.js/actions/workflows/test.yml/badge.svg" alt="Tests status" /></a>
-		<a href="https://codecov.io/gh/discordjs/discord.js" ><img src="https://codecov.io/gh/discordjs/discord.js/branch/main/graph/badge.svg?precision=2" alt="Code coverage" /></a>
-	</p>
-	<p>
-		<a href="https://vercel.com/?utm_source=discordjs&utm_campaign=oss"><img src="https://raw.githubusercontent.com/discordjs/discord.js/main/.github/powered-by-vercel.svg" alt="Vercel" /></a>
-		<a href="https://www.cloudflare.com"><img src="https://raw.githubusercontent.com/discordjs/discord.js/main/.github/powered-by-workers.png" alt="Cloudflare Workers" height="44" /></a>
-	</p>
 </div>
+
+
+![GitHub all releases](https://img.shields.io/github/downloads/alimsahy/eldritch/total)
+![GitHub](https://img.shields.io/github/license/alimsahy/eldritch)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/alimsahy/eldritch/master)
+
 
 
 Eldritch is a powerful, dynamic, open-source MMORPG system developed for Discord communities with MMO and RPG themes. The main purpose and motivation of this project are to provide support to existing text-based RPG servers within Discord and elevate the Discord user experience to a higher level. You can easily download and integrate this system into your own servers as it is distributed and used freely under the GNU GPL V3 license.
