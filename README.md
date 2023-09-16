@@ -5,11 +5,6 @@
 	</p>
 </div>
 
-
-![GitHub all releases](https://img.shields.io/github/downloads/alimsahy/eldritch/total)
-![GitHub](https://img.shields.io/github/license/alimsahy/eldritch)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/alimsahy/eldritch/main)
-
 <div align="center">
 	<h1>Coming Soon</h1>
 </div>
