@@ -8,9 +8,9 @@
 <div align="center">
 	<h1>Coming Soon</h1>
 	<br />
-	<h4>Progress: %37</h4>
 </div>
 
+![Progress](https://progress-bar.dev/37/?title=Progress)
 
 Eldritch is a powerful, dynamic, open-source MMORPG system developed for Discord communities with MMO and RPG themes. The main purpose and motivation of this project are to provide support to existing text-based RPG servers within Discord and elevate the Discord user experience to a higher level. You can easily download and integrate this system into your own servers as it is distributed and used freely under the GNU GPL V3 license.
 
