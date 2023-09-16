@@ -8,7 +8,7 @@
 
 ![GitHub all releases](https://img.shields.io/github/downloads/alimsahy/eldritch/total)
 ![GitHub](https://img.shields.io/github/license/alimsahy/eldritch)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/alimsahy/eldritch/master)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/alimsahy/eldritch/main)
 
 
 
