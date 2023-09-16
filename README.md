@@ -16,6 +16,6 @@ This project, It is being developed to offer a text-based experience such as Kni
 
 
 ## Technologies used in this Project
-- **Core Systems:** C++
+- **Core Systems:** C++ (Node API, N-API)
 - **Game & Logics:** TypeScript
 
